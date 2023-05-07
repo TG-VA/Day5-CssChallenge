@@ -39,4 +39,4 @@ Puedes ver este reto en vivo en mi [Codepen](https://codepen.io/TristanVenegas/p
 **Desarrollado con HTML, CSS Y JAVASCRIPT VAINILLA.**
 
 ### ✒️  Autor
-- [Tristan Venegas](https://github.com/TristanVenegas "Tristan Venegas") - Front end Developer.
+- [Tristan Venegas](https://github.com/TG-VA "Tristan Venegas") - Front end Developer.
